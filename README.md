@@ -10,6 +10,8 @@
 [![Wagmi](https://img.shields.io/badge/Wagmi-2.19-purple?logo=ethereum)](https://wagmi.sh/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/RionOracle)
+[![Website](https://img.shields.io/badge/Website-rion--oracle.com-blue)](https://www.rion-oracle.com/)
 
 A comprehensive web interface for the RION Oracle Network — a BNB-native oracle system with provable data feeds, dispute resolution, and user insurance mechanisms.
 
@@ -271,15 +273,6 @@ Switch networks via the wallet connection interface or by updating `NEXT_PUBLIC_
 
 ## Deployment
 
-### Vercel (Recommended)
-
-The project is optimized for [Vercel](https://vercel.com):
-
-1. Push to GitHub
-2. Connect repository to Vercel
-3. Configure environment variables in Vercel dashboard
-4. Deploy automatically on push to main
-
 ### Self-Hosted
 
 Deploy to any Node.js hosting:
@@ -395,7 +388,6 @@ For questions, issues, or contributions:
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/RionOracle/RionOracle/issues)
 - **Documentation**: See [./docs/](./docs/) for comprehensive guides
-- **Discussions**: [Community discussions](https://github.com/RionOracle/RionOracle/discussions)
 
 ---
 
