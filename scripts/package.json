@@ -1,0 +1,8 @@
+{
+  "name": "rion-scripts",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^6.9.0"
+  }
+}
