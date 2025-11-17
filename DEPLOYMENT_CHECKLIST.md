@@ -1,6 +1,6 @@
 # RION Oracle Network - Deployment Checklist
 
-## Pre-Deployment
+## Pre Deployment
 
 - [ ] All smart contracts compiled without errors
 - [ ] All tests passing (unit + integration)
